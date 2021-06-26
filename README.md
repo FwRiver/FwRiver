@@ -1,13 +1,36 @@
+👋 Hi there, I'm FwRiver
+
 ## My Github Stats:
-![o0River0o's github stats](https://github-readme-stats.vercel.app/api?username=o0River0o&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o0River0o&langs_count=8)]()
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=o0River0o&show_icons=true&icon_color=0078e7&title_color=0078e7">
+
+#### Languages and Frameworks
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+
+#### Tools
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+
+#### Interested
+
+<code><img height="20" src="https://simpleicons.org/icons/blender.svg"></code>
+
 <br>
 
 ## I'm currently working on...
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=o0River0o&repo=YDRCMWC)](https://github.com/o0River0o/YDRCMWC)
 
-## Ways to get contact to me...
-
-📧 **via Email:** gyoushijie@gmail.com
+## Other Information
+**Blog:** <a href="https://fwriver.github.io">https:/fwriver.github.io</a>
 <br>
-💬 **via Discord:** o0River0o#1024
+📧 **Email:** gyoushijie@gmail.com
+<br>
+💬 **Discord:** o0River0o#1024
