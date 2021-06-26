@@ -2,7 +2,7 @@
 
 ## My Github Stats:
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=o0River0o&show_icons=true&icon_color=0078e7&title_color=0078e7">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=fwriver&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
 #### Languages and Frameworks
 
@@ -26,7 +26,7 @@
 <br>
 
 ## I'm currently working on...
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=o0River0o&repo=YDRCMWC)](https://github.com/o0River0o/YDRCMWC)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=fwriver&repo=fwriver.github.io)](https://github.com/fwriver/fwriver.github.io)
 
 ## Other Information
 **Blog:** <a href="https://fwriver.github.io">https:/fwriver.github.io</a>
