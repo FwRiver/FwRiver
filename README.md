@@ -30,7 +30,7 @@
 *Nothing going on yet...
 
 ## Other Information
-**Blog:** <a href="https://rivernothere.github.io">https:/rivernothere.github.io</a>
+**Blog:** <a href="https://rivernothere.github.io">https://rivernothere.github.io</a>
 <br>
 📧 **Email:** gyoushijie@gmail.com
 <br>
