@@ -1,6 +1,6 @@
 👋 Hi there, I'm RiverNotHere
 
-## My Github Stats:
+## My Github Stats
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=RiverNotHere&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
