@@ -33,6 +33,6 @@
 ## Other Information
 **Blog:** <a href="https://rivernothere.github.io">https://rivernothere.github.io</a>
 <br>
-📧 **Email:** gyoushijie@gmail.com
+**Email:** gyoushijie@gmail.com
 <br>
-💬 **Discord:** o0River0o#9004
+**Discord:** o0River0o#9004
